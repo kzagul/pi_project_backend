@@ -1,3 +1,15 @@
+# Meeting manager / Менеджер встреч (Backend)
+
+- RESTful API
+- API запросы 
+- Фильтрации
+- Регистрация 
+-	JWT-авторизация (+Keycloack)*
+-	Ролевой доступ к API
+-	Ролевой доступ
+-	CRUD по встречам
+-	API для графиков на основе отчетной информации (посещаемость встреч, частота проведения встреч)
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
@@ -22,17 +34,17 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+## Description/Описание
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-## Installation
+## Installation/Установка
 
 ```bash
 $ npm install
 ```
 
-## Running the app
+## Running the app/Запуск приложения
 
 ```bash
 # development
@@ -45,7 +57,7 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Test
+## Test/Тестирование
 
 ```bash
 # unit tests
@@ -58,15 +70,15 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## Support
+## Support/Поддержка
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
 ## Stay in touch
 
 - Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- Оффициальная документация - [nestjs.com](https://nestjs.com/)
+- Оффициальная документация (на русском)  - [nestjs.ru.com](https://nestjs.ru.com/)
 
 ## License
 
